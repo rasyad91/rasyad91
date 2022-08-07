@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Rasyad Subandrio
-- 👀 I’m interested in blockchain
 - 🌱 I’m currently learning Golang
 - 📫 How to reach me rasyadsubandrio@gmail.com
 
